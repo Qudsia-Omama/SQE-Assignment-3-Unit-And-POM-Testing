@@ -87,6 +87,7 @@ Included in the assignment report (`.docx`) are:
 | ------------ | ------------- | ------- |
 | Qudsia Omama | 2022F-BSE-002 | B       |
 
+* **University**: Sir Syed University Of Engineering & Technology
 * **Program**: BS Software Engineering
 * **Course**: SWE–305 – Software Quality Engineering
 * **Instructor**: Miss Aiman Qasim
