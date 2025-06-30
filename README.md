@@ -1,4 +1,4 @@
-# 🧪 SQE Assignment 3 – Selenium Testing using Python & Page Object Model
+#  SQE Assignment 3 – Selenium Testing using Python & Page Object Model
 
 This repository contains the complete solution to **Assignment #3** of **SWE–305: Software Quality Engineering**, submitted by **Qudsia Omama (2022F-BSE-002)**.
 
