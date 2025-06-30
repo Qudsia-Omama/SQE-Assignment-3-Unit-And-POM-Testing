@@ -26,7 +26,7 @@ using Python on UI forms provided by **TutorialsPoint Practice Site**.
 ### 🔹 Question 2: Page Object Model (POM)
 **Target Pages:**
 - 🔐 [Login Page](https://www.tutorialspoint.com/selenium/practice/login.php)
-- 📝 [Text Box Page](https://www.tutorialspoint.com/selenium/practice/text-box.php](https://www.tutorialspoint.com/selenium/practice/register.php)
+- 📝 [Text Box Page](https://www.tutorialspoint.com/selenium/practice/register.php)
 
 **POM Design:**
 - Created separate page classes for login and registration
